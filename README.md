@@ -1,4 +1,4 @@
-## PD IMPOUND
+## San Andreas Impound Lot
 
 * I'm not sure if I will expand it in the future, if you do find any bugs though please let me know.
 * This script does not stop players from spawning vehicles elsewhere, you'll probably want to disable the spawning of vehicles in another script if the user's plate is found in the impounded table.
