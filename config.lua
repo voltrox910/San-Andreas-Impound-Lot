@@ -1,7 +1,7 @@
 Config 					= {}
 
 Config.Impound 			= {
-	Name = "PoliceImpound",
+	Name = "San Andreas Impound Lot",
 	RetrieveLocation = { X = 826.30, Y = -1290.20, Z = 28.60 },
 	StoreLocation = { X = 872.64, Y = -1350.50, Z = 26.30 },
 	SpawnLocations = {
